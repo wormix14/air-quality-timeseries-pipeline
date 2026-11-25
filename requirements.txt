@@ -1,0 +1,6 @@
+azure-identity
+deltalake
+pandas
+pyarrow
+influxdb-client
+APScheduler
