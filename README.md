@@ -26,3 +26,7 @@ Automated ETL pipeline that extracts air quality metrics (`pm25`, `o3`, `tempera
 InfluxDB: http://localhost:8086
 
 Grafana: http://localhost:3000
+
+## Visualization
+
+You can see my Grafana dashboards [here](https://github.com/wormix14/air-quality-timeseries-pipeline/tree/main/dashboards)
